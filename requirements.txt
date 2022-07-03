@@ -1,0 +1,16 @@
+Webpack
+  Babel
+  Scss
+  Eslint
+
+  2 modes
+    -Dev (dev server, SourseMaps, Eslint, not minified JS & css)
+    -Prod (Minified Code)
+Git
+
+
+    Prodiction
+    v 1.0.0
+
+    Development
+    v 1.0.2
